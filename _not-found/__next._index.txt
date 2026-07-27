@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[7121,[],""]
+3:I[4581,[],""]
+:HL["/3d_interior_design_by_mahesh/_next/static/css/c1d8965b4ab1d065.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/3d_interior_design_by_mahesh/_next/static/css/c1d8965b4ab1d065.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"__variable_d59fd1 __variable_4389be h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"q0fSckHsm6jTj15pkWdYp"}
